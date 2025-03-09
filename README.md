@@ -1,5 +1,5 @@
 <div align="center">
-
+   <img src="profile.jpeg" width="100%" alt="Banner">
 </div>
 
 <h3>ABOUT ME</h3>
